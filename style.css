@@ -1,0 +1,19 @@
+*{
+    font-size: 30px;
+   
+}
+h3{
+    color:darkcyan; 
+}
+h4{
+    color: darkgreen;
+}
+h5,p{
+    color: black;
+}  
+.a{
+    color: coral;
+}
+#b{
+    color: blue;
+}
